@@ -1,6 +1,6 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** AI20K-0379
+**Student ID:** 2A202600379
 **Name:** Lê Minh Tuấn
 **Date:** 15/04/2026
 
